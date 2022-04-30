@@ -8,7 +8,7 @@ require("hardhat-abi-exporter");
 //GemNodesV2_Dev Mainnet Deployer Addr: 0x350db736C992d907aC663Fd2D00e54728b6CBE77
 /** */
 //const AVALANCHE_TEST_PRIVATE_KEY = "INPUT-PRIVATE-KEY-HERE"; 
-const AVALANCHE_MAIN_PRIVATE_KEY = "6F4df39Fd6e83285c42b50406cbd32db01d9aa0278afecb367f032d93F642f6F";
+const AVALANCHE_MAIN_PRIVATE_KEY = "GO FUCK YOURSELF LOSER!!!";
 
 module.exports = {
 	solidity: {

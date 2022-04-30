@@ -23,7 +23,7 @@ const Liquidity = "0xD1654973675be0f563D6FdA67AACB3028c225c62";
 
 const Router = "0x60aE616a2155Ee3d9A68541Ba4544862310933d4";//JoeTrader_Router
 const Native = "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"; //Wrapped_Avax
-const Pair = "0xD81Cb1F7BCe1d539f3de6E7431a637cB5c66669d"; //Joe_LP_Token
+const Pair = "0xbcdc1b24ae8470745c769a116a0006a073d84cf5"; //Joe_LP_Token
 //--------------------------------
 //==// Wallets
 // owner
