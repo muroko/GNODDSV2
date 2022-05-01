@@ -14,13 +14,13 @@
               @click = "buyGem"
               class="bg-[#00C6ED] rounded-[14px] w-[188px] md:w-[204px] h-[40px]"
             > -->
-            <a href="https://traderjoexyz.com/trade?outputCurrency=0x6c1c0319d8ddcb0ffe1a68c5b3829fd361587db4#/" target="_blank">
+          <!--  <a href="https://traderjoexyz.com/trade?outputCurrency=0x6c1c0319d8ddcb0ffe1a68c5b3829fd361587db4#/" target="_blank">
               <div class="flex flex-row justify-center mx-[24px] normal-case bg-[#00C6ED] token-button rounded-[14px] w-[188px] md:w-[204px] h-[40px]">
                 <img class="mr-[10px] p-[6px]" :src="require('../assets/img/buygem.svg')" alt="">
                 <span class="text-[14px] text-[#FFFFFF]  py-[12px] font-semibold">Buy $ GEM</span>
               </div>
             </a>
-            <!-- </v-btn> -->
+             </v-btn> -->
           
         </div>
         <div class="mt-15" v-if="!isLoggIn">
