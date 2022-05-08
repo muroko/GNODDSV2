@@ -280,9 +280,9 @@ contract GemNodesV2 is ERC20, Ownable, PaymentSplitter {
         swapLiquify = newVal;
     }
 
-	function openTrading() external onlyOwner {
-        require(!tradingOpen,"Trading is already open");
-        tradingOpen = true;
+	function openTrading(bool value) external onlyOwner {
+        require(!tradingOpen,"Set to Open or Close the Trading");
+        tradingOpen = value;
     }
     
 	function updateMaxTx(uint256 newMaxTx) external onlyOwner {
